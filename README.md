@@ -12,3 +12,5 @@ Files in this repository:
 1. ui.R
 2. server.R
 3. mpgPredictiveModel.html (R presenter pitch slides)
+
+The presentation is also hosted on [RPubs](http://www.rpubs.com/cpatinof/mpgPredictiveModel)
