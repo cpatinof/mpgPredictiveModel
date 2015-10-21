@@ -10,7 +10,7 @@ shinyUI(
         headerPanel("Simple Model for MPG Prediction"),
         
         sidebarPanel(
-                p("This application allows the user to obtain a mileage
+                p("This application allows the user to obtain a gas
                   consumption prediction based on a basic set of features."),
                 h4("Model Specification"),
                 p("The predictions are based on a linear regression model
